@@ -104,7 +104,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Social {
-      twitter: String
+      wechat: String
     }
 
     type MarkdownRemark implements Node {

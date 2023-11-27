@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `My Code`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jiang Li`,
+      summary: `who lives and works in China building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `My code record.`,
+    siteUrl: `https://www.baidu.com`,
     social: {
-      twitter: `kylemathews`,
+      wechat: `li870327`,
     },
   },
   plugins: [
